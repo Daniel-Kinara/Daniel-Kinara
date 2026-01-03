@@ -1,4 +1,5 @@
 Hello👋, I'm Daniel Kinara
+- - -
 Software Engineer | Fronted Developer |Tech Enthusiast.
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Frontend+Developer;Tech+Enthusiast;Building+Modern+Web+UIs)
 
