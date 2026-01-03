@@ -10,8 +10,11 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
   
 .🎓 Software Engineering student
 .💻 Frontend Developer specializing in HTML, CSS, JavaScript, and React JS.
+
 .🌱 Currently improving skills in React, UI/UX design, and modern web tools.
+
 .🚀 Passionate about building responsive, user-friendly web applications.
+
 .📚 Always learning and experimenting with new technologies
 
 ---
@@ -19,10 +22,15 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
   🛠️ Skills & Technologies
   
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
 
 ---
@@ -51,6 +59,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
   🔗 Connect With Me
   
 . 🌐 Portfolio:
+
 . 💼 LinkedIn: in/daniel-osoro-ab5568307
 
 ---
