@@ -7,6 +7,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
 ---
   🎓 About Me
+  
 .🎓 Software Engineering student
 .💻 Frontend Developer specializing in HTML, CSS, JavaScript, and React JS.
 .🌱 Currently improving skills in React, UI/UX design, and modern web tools.
@@ -16,6 +17,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 ---
 
   🛠️ Skills & Technologies
+  
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -26,6 +28,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 ---
 
  📌 Projects
+ 
  .Personal Portfolio Website  
   Responsive portfolio built using HTML, CSS, and JavaScript
 
@@ -38,6 +41,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 ---
 
  📊 GitHub Stats
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Kinara&show_icons=true=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Kinara&layout=compact)
@@ -45,10 +49,12 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 ---
 
   🔗 Connect With Me
+  
 . 🌐 Portfolio:
 . 💼 LinkedIn: in/daniel-osoro-ab5568307
 
 ---
 
  ⚡ Fun Fact
+ 
 I enjoy turning designs into functional and interactive web experiences.
