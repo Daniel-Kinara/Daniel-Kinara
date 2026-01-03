@@ -9,6 +9,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
   🎓 About Me
   
 .🎓 Software Engineering student
+
 .💻 Frontend Developer specializing in HTML, CSS, JavaScript, and React JS.
 
 .🌱 Currently improving skills in React, UI/UX design, and modern web tools.
