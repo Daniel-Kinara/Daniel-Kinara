@@ -8,15 +8,15 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 ---
   🎓 About Me
   
-.🎓 Software Engineering student
+•🎓 Software Engineering student
 
-.💻 Frontend Developer specializing in HTML, CSS, JavaScript, and React JS.
+•💻 Frontend Developer specializing in HTML, CSS, JavaScript, and React JS.
 
-.🌱 Currently improving skills in React, UI/UX design, and modern web tools.
+•🌱 Currently improving skills in React, UI/UX design, and modern web tools.
 
-.🚀 Passionate about building responsive, user-friendly web applications.
+•🚀 Passionate about building responsive, user-friendly web applications.
 
-.📚 Always learning and experimenting with new technologies
+•📚 Always learning and experimenting with new technologies
 
 ---
 
@@ -38,13 +38,13 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
  📌 Projects
  
- .Personal Portfolio Website  
+ •Personal Portfolio Website  
   Responsive portfolio built using HTML, CSS, and JavaScript
 
- .Church Website 
+ •Church Website 
   Modern website with clean UI, event sections, and responsive layout
 
- .React Projects 
+ •React Projects 
   Small React applications focusing on components, hooks, and state management
 
 ---
@@ -60,9 +60,9 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
   🔗 Connect With Me
   
-. 🌐 Portfolio:
+• 🌐 Portfolio:
 
-. 💼 LinkedIn: in/daniel-osoro-ab5568307
+• 💼 LinkedIn: in/daniel-osoro-ab5568307
 
 ---
 
