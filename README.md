@@ -6,7 +6,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Frontend+Developer;Tech+Enthusiast;Building+Modern+Web+UIs)
 
 ---
-  🎓 About Me
+  🎓 ABOUT ME
   
 •🎓 Software Engineering student
 
@@ -20,7 +20,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
 ---
 
-  🛠️ Skills & Technologies
+  🛠️ SKILLS & TECHNOLOGIES
   
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
@@ -31,8 +31,8 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
 ---
 
- 📌 Projects
- 
+ 📌 PROJECTS
+
  •Personal Portfolio Website  
   Responsive portfolio built using HTML, CSS, and JavaScript
 
@@ -44,7 +44,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
 ---
 
- 📊 GitHub Stats
+ 📊 GITHUB STATS
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Kinara&show_icons=true&theme=default)
 
@@ -53,7 +53,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
 ---
 
-  🔗 Connect With Me
+  🔗 CONNECT WITH ME
   
 • 🌐 Portfolio:
 
@@ -61,6 +61,6 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
 ---
 
- ⚡ Fun Fact
+ ⚡ FUN FACT
  
 I enjoy turning designs into functional and interactive web experiences.
