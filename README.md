@@ -49,11 +49,11 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 ---
 
  📊 GITHUB STATS
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Kinara&show_icons=true&theme)
 
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniel-Kinara&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Kinara&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Kinara&layout=compact&theme=radical)
+
 
 ---
 
