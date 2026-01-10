@@ -40,7 +40,9 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
  •Personal Portfolio Website  
   Responsive portfolio built using HTML, CSS, and JavaScript
 
- •Church Website 
+ •Church Website .
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://pure-word.vercel.app)
+
   Modern website with clean UI, event sections, and responsive layout
 
  •React Projects 
