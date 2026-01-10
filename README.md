@@ -34,8 +34,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
  📌 PROJECTS
 
  ~A Media Vault.
- - [Personal Media Vault (Live)](https://personal-media-vault.vercel.app)
- - Used as an external vault for photos an videos storage.
+ - [Personal Media Vault (Live)](https://personal-media-vault.vercel.app) -Used as an external vault for photos an videos storage.
    
  •Personal Portfolio Website  
   Responsive portfolio built using HTML, CSS, and JavaScript
