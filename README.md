@@ -42,7 +42,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://pure-word.vercel.app)-Modern website with clean UI, event sections, and responsive layout
 
 •Personal Portfolio Website  
-  Responsive portfolio built using HTML, CSS, and JavaScript
+  Responsive portfolio built using HTML, CSS, and JavaScript , COMING SOON
 
  •React Projects 
   Small React applications focusing on components, hooks, and state management
