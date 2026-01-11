@@ -60,7 +60,7 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
 
   🔗 CONNECT WITH ME
   
-• 🌐 Portfolio:
+• 🌐 Portfolio: Coming soon.
 
 • 💼 LinkedIn: in/daniel-osoro-ab5568307
 
