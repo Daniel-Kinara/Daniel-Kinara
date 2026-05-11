@@ -41,6 +41,9 @@ Software Engineer | Fronted Developer |Tech Enthusiast.
  
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://pure-word.vercel.app)-Modern website with clean UI, event sections, and responsive layout
 
+•Agtech Farm Management Information System.
+>[Smart Farm FMIS](https://agtech-fmis.vercel.app)
+
 •Personal Portfolio Website  
   Responsive portfolio built using HTML, CSS, and JavaScript , COMING SOON
 
